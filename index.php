@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: Social Media Share & Widget
-Plugin URI: https://wphostbd.net/
+Plugin URI: https://github.com/codenrx/Social-Media-Share-Widget
 Description: A Simple Plugin used for social sharing in wordpress. Got These Design From <a target="_blank" href="https://codepen.io/thalseth/pen/saqIj">Torleif Halseth</a>'s pen
 Author: CodenRx Team
-Author URI: https://wphostbd.net/
+Author URI: https://github.com/codenrx
 Text Domain: socialsharewidget
 Version: 1.0
 */
