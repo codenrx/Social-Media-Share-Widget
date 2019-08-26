@@ -2,8 +2,9 @@
     width: 100%;
     text-align: center;
     background: white;
-    padding: 1rem 0rem;
+    padding: 1rem;
     box-shadow: 0px 0px 5px 2px #00000014;
+    margin-bottom: 2rem;
 }
 
 .social-share-title{
@@ -304,4 +305,107 @@ hr {
 }
 .icon-link:hover.codepen {
   border: 2px solid black;
+}
+.icon-link:before {
+    content: none;
+}
+
+
+/* Share  */
+.social-share-container {
+    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+
+.social-share-a {
+  color: #fff;
+  text-decoration: none !important;
+  font-family: Helvetica, Arial, sans-serif;
+  margin:.3em;
+  font-size: .8em;
+  border-radius: 4px;
+}
+
+.social-share-icon {
+  text-align:left;
+  font-size:1.2em;
+  margin-right:.5em;
+}
+
+.facebook-share {
+  background-color:#3A5795;
+  padding:0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #3a5795;
+}
+
+.facebook-share:hover {
+  background-color:#fff;
+  color:#3A5795;
+}
+
+.twitter-share {
+  background-color:#00B0ED;
+  padding:0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #00B0ED;
+}
+.twitter-share:hover {
+  background-color:#fff;
+  color:#00B0ED;
+}
+.pinterest-share {
+  background-color:#BE091C;
+  padding: 0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #BE091C;
+}
+.pinterest-share:hover {
+  background-color:#fff;
+  color:#BE091C;
+}
+
+.linkedin-share {
+  background-color:#0077b5;
+  padding: 0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #0077b5;
+}
+.linkedin-share:hover {
+  background-color:#fff;
+  color:#0077b5;
+}
+
+.reddit-share {
+  background-color:#F44336;
+  padding: 0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #F44336;
+}
+.reddit-share:hover {
+  background-color:#fff;
+  color:#F44336;
+}
+
+.instagram-share {
+  background-color:#607D8B;
+  padding: 0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #607D8B;
+}
+.instagram-share:hover {
+  background-color:#fff;
+  color:#607D8B;
+}
+
+.blog-share {
+  background-color:#fb6405;
+  padding: 0.6em 1.4em 0.6em 1em;
+  text-align:left;
+  border: 2px solid #fb6405;
+}
+.blog-share:hover {
+  background-color:#fff;
+  color:#fb6405;
 }
