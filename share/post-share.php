@@ -1,6 +1,6 @@
 <?php
 
-function wpb_after_post_content($content){
+function codenrx_wp_after_post_content($content){
 if (is_single()) {  
     $content .= '
     <hr>

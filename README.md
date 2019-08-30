@@ -1,5 +1,7 @@
 # === Social Media Share & Widget ===
 
+- [Download](https://wordpress.org/plugins/social-media-share-and-widget/)
+
 [![issu Status](https://img.shields.io/github/issues/codenrx/Social-Media-Share-Widget)](https://github.com/codenrx/Social-Media-Share-Widget/issues)
 ![folk Status](https://img.shields.io/github/forks/codenrx/Social-Media-Share-Widget)
 ![stars](https://img.shields.io/github/stars/codenrx/Social-Media-Share-Widget)
