@@ -17,10 +17,39 @@ A Simple Plugin used for social sharing in wordpress. Got These Design From [Tor
 
 [![SEbcH.png](https://b.imge.to/2019/08/27/SEbcH.png)](https://imge.to/i/SEbcH)
 
+### ShortCode 
+
+You can use 2-shortcode .
+
+1. `[cdx_social_share]` :- this shortcode can display share buttons on posts & pages .
+
+2. ```[cdxSocialLinks fb="facebook_url" tw="twitter_url" yt="youtube_url" ins="instagram_url" lkin="linkedIn_url" email="email_address" be="behance_url" dr="dribbble_url" gt="github_url" pin="pinterest_url" tum="tumblr_url" sound="soundcloud_url" cpen="codepen_url"]```
+
+This second shortcode can display some social buttons . Attributes are :-
+
+* **fb (facebook)**
+* **tw (twitter)**
+* **ins (Instagram)**
+* **lkin (LinkedIn)**
+* **email (Email)**
+* **be (Behance)**
+* **dr (dribbble)**
+* **gt (Github)**
+* **pin (Pinterest)**
+* **tum (tumblr)**
+* **sound (SoundCloud)**
+* **cpen (codepen)**
+
+> This attributes are not required . if you use 2 or 3 , Display only these 2 or 3 , others will be hide.
+
 
 ## Release Notes
 
-### 1.0.0
+### 1.1
+
+Add shortcode feature
+
+### 1.0
 
 Initial release of ...
 
